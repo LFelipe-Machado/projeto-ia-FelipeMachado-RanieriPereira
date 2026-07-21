@@ -62,12 +62,8 @@ _(a preencher após a avaliação final — seção 5.7 do notebook)_
 
 ## Divisão das contribuições
 
-_(a preencher pelo grupo)_
-
-| Integrante | Partes do trabalho |
-|---|---|
-| Luís Felipe Rocha Machado | |
-| Ranieri Pereira Carvalho Filho | |
+Ranieri Filho=
+Luis Felipe
 
 ## Link do vídeo
 
