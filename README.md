@@ -63,7 +63,9 @@ _(a preencher após a avaliação final — seção 5.7 do notebook)_
 ## Divisão das contribuições
 
 Ranieri Filho=
-Luis Felipe
+
+
+Luis Felipe=
 
 ## Link do vídeo
 
