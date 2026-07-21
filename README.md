@@ -42,11 +42,7 @@ arquivos locais.
 
 ## Como abrir no Google Colab
 
-Clique no link abaixo (ou abra o `projeto_final.ipynb` pelo GitHub e clique em "Open in Colab"):
-
-`https://colab.research.google.com/github/<USUARIO>/<REPO>/blob/main/projeto_final.ipynb`
-
-*(link a ser atualizado com o endereço definitivo do repositório)*
+https://colab.research.google.com/github/LFelipe-Machado/projeto-ia-FelipeMachado-RanieriPereira/blob/main/projeto_final.ipynb
 
 ## Modelos utilizados
 
