@@ -84,8 +84,7 @@ Luis Felipe=Colaborou no README e fez da seção 5.4 ate a 5.7
 OBS: Nenhum dos dois fez inteiramente uma seção os dois se ajudaram em todas, mas as que citadas foram as que tiveram maior contribuição de cada participante
 
 ## Link do vídeo
-
-_(a preencher)_
+--
 
 ## Declaração de uso de ferramentas de Inteligência Artificial
 
