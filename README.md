@@ -40,7 +40,7 @@ Regressão — o atributo-alvo (`vote_average`, nota de 0 a 10) é numérico con
     └── Top_rated_movies.csv
 ```
 
-## Como abrir no Google Colab
+## Link do Google Colab
 
 https://colab.research.google.com/github/LFelipe-Machado/projeto-ia-FelipeMachado-RanieriPereira/blob/main/projeto_final.ipynb
 
@@ -79,9 +79,9 @@ disponíveis no dataset (ver discussão completa na seção 5.7 do notebook).
 Ranieri Filho= Elaborou o README e as seções 5.1 ate 5.3 
 
 
-Luis Felipe=Colobarou no README e fez da 5.4 ate a 5.7
+Luis Felipe=Colaborou no README e fez da seção 5.4 ate a 5.7
 
-OBS: Nenhum dos dois fez inteiramente uma seção os dois se ajudaram em todas, mas as que coloquei foram as que tiveram maior contribuição de cada participante
+OBS: Nenhum dos dois fez inteiramente uma seção os dois se ajudaram em todas, mas as que citadas foram as que tiveram maior contribuição de cada participante
 
 ## Link do vídeo
 
